@@ -24,7 +24,9 @@
 
 ![](https://taroyan3rd.com/images/DefaultSteamVRInput/1.PNG)
 
-- Unity Editorで実行し、コントローラーのトリガーを引いたりトラックパッドをクリックしたりすると、console画面に検知したInputのデバッグログが表示されます。
+- Unity Editorで実行し、コントローラーのトリガーを引いたりトラックパッドをクリックしたりすると、コンソール画面に検知したInputのデバッグログが表示されます。
+
+- 「Simple Sample」シーン以外でも「DefaultSteamVRInput.cs」を「[CameraRig]」に相当するゲームオブジェクトにアタッチすれば同様のインプットが取得できます。
 
 
 
