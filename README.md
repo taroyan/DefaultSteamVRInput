@@ -24,6 +24,8 @@
 
 ![](https://taroyan3rd.com/images/DefaultSteamVRInput/1.PNG)
 
+- Unity Editorで実行し、コントローラーのトリガーを引いたりトラックパッドをクリックしたりすると、console画面に検知したInputのデバッグログが表示されます。
+
 
 
 ## 参考
