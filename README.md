@@ -26,7 +26,7 @@
   - activateActionSetOnAttach_Buggy　　　　【\actions\buggy】
   - activateActionSetOnAttach_Mixedreality　【\actions\mixedreality】
 
-![](https://taroyan3rd.com/images/DefaultSteamVRInput/.PNG)
+![](https://taroyan3rd.com/images/DefaultSteamVRInput/A.PNG)
 
 - Unity Editorで実行し、コントローラーのトリガーを引いたりトラックパッドをクリックしたりすると、コンソール画面に検知したInputのデバッグログが表示されます。
 
