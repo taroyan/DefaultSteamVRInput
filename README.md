@@ -21,6 +21,10 @@
 - 当ファイル「DefaultSteamVRInput.cs」をプロジェクト内のAssetsフォルダ内の好きな場所を配置する
 - SteamVRフォルダ内にある「Simple Sample」のシーンを開く
 - ヒエラルキー内の「[CameraRIg]」のオブジェクトに「DefaultSteamVRInput.cs」スクリプトをアタッチする。
+- インスペクター内の「DefaultSteamVRInput (Script)」内の以下の項目をコンボボックスから設定
+  - activateActionSetOnAttach_Platformer		【\actions\platformer】
+  - activateActionSetOnAttach_Buggy　　　　【\actions\buggy】
+  - activateActionSetOnAttach_Mixedreality　【\actions\mixedreality】
 
 ![](https://taroyan3rd.com/images/DefaultSteamVRInput/1.PNG)
 
